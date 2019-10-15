@@ -1,0 +1,27 @@
+in this project im going to use all the concept of oops in pag object model in hybrid framework 
+
+OOPs concept  - inheritance 
+method overloading 
+method overriding 
+ENCAPSULATION - private/public
+JAVA GENERICS 
+Wrappper methods generics page actions
+Abstract class concept also i will use here 
+i ll show here we cannot create object of abstract class but i can create constructor of abstract class
+object creation strategy 
+constructor 
+exception handling in framework 
+we will achieve multy level inheritance 
+
+here im gonna give all the real time example not alredy existing methods in java and selenium 
+like --for method overloading esting example---- cross browser testing System.setProperty 
+Assert.assertEquals also method overloading 
+//another example Page factory -----init elements 
+//driver.switch to Frame it also another example for the method overloading 
+ITest Listener interface testng Interface 
+when we implement  iTest interface same time we are aciving method overriding in child class 
+ 
+these all are the existing exapmle of oops concept 
+
+
+
